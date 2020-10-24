@@ -1,0 +1,13 @@
+{
+	"name": "desarrollowebgtm/text",
+	"authors": [ { }],
+	"require": { },
+	"autload": {
+		"psr-4": {
+			"Text\\": "src"
+		},
+		"files": [
+			"src/helpers"
+		]
+	}
+}
